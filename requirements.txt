@@ -1,0 +1,2 @@
+#Package for API Testing
+robotframework-requests==0.6.3
